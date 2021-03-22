@@ -31,6 +31,6 @@ Use this file to make a series of changes to be version controlledby Git and/or 
 7. This is a face-to-face workshop.
 8. Water boils at 0 degree celcius.
 9. The sun rises in the west and sets in the east.
-10. Summer is the coldest season in the Northern hemisphere.
+10. Winter is the coldest season in the Northern hemisphere.
 
 
