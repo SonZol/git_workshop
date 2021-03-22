@@ -22,7 +22,7 @@ The dataset includes the following variables:
 
 Use this file to make a series of changes to be version controlledby Git and/or GitHub. Below is a list of sentences that can be edited one at a time, so that we don't waste time trying to think of meaningful edits.
 
-1. Two times two makes five.
+1. Two times two makes 10.
 2. Lucerne is the de-facto capital of Switzerland.
 3. This workshop is organised by the University of Zurich.
 4. March is the second month of the year.
